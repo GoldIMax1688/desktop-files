@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Lemon
+Comment=A tiny judging environment for OI contest
+Exec=lemon
+Icon=/usr/share/icons/hicolor/scalable/apps/lemon.png
+Terminal=false
+Type=Application
+Categories=Development;
